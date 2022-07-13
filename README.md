@@ -10,6 +10,13 @@
 npm install --save react-use-hooks
 ```
 
+## Hooks
+
+1. useLoader
+2. useBoolean
+3. useConst
+4. useId
+
 ## Usage
 
 ```tsx
